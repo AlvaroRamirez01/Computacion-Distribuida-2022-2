@@ -9,4 +9,12 @@ Integrantes del equipo:
 * Licona Gómez Aldo Daniel
 * Ramírez López Alvaro
 
-Por el momento el equipo no tuvo dificultad con esta practica.
+Por el momento el equipo no tuvo dificultad con esta practica, agregamos el como
+se puede ejecutar la parte 3 de la practica, para hacer lo del algoritmo y el 
+calendario usamos el lenguaje Java, basta que en terminal ejecutemos 
+
+javac Practica04Parte3.java Practica04Parte3.java
+
+Despues para ejecutar el .class hacemos el siguiente comando
+
+java Practica04Parte3 
