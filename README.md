@@ -17,3 +17,4 @@ Repositorio para practicas de la clase Computación Distribuida Semestre 2022-2
 * [Practica #4](https://gitlab.com/alvaro-ramirez/computacion-distribuida-2022-2/-/tree/main/Practica04)
 * [Practica #6](https://gitlab.com/alvaro-ramirez/computacion-distribuida-2022-2/-/tree/main/Practica06)
 * [Practica #7](https://gitlab.com/alvaro-ramirez/computacion-distribuida-2022-2/-/tree/main/Practica07)
+* [Practica #8](https://gitlab.com/alvaro-ramirez/computacion-distribuida-2022-2/-/tree/main/Practica08)
